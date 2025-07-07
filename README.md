@@ -1,8 +1,17 @@
-#📜 Autorská práva
-Na této stránce jsou uvedeny všechny mé autorské a ochranné známky, které jsou chráněny podle platných zákonů o duševním vlastnictví. Veškerý zde uvedený obsah – včetně názvů, projektů, log, kódů, návrhů a grafických prvků – je mým vlastnictvím a nesmí být kopírován, upravován, ani dále šířen bez mého výslovného písemného souhlasu.
+## 🛡️ Autorská práva
 
-Tato ochrana slouží k zajištění originality mých děl, zachování integrity značky a k ochraně mé kreativity před neoprávněným zneužitím. Respektuj mou práci stejně, jako chceš, aby ostatní respektovali tu tvou.
+Veškerý obsah tohoto repozitáře (včetně názvů, značek, projektových názvů, log, zdrojových kódů, designových prvků a dalších autorských děl) je chráněn podle zákonů o duševním vlastnictví.
 
-Pokud máš zájem o spolupráci nebo využití jakékoli části mé tvorby, neváhej mě kontaktovat.
+Tento projekt, jeho název, struktura, kód a grafické materiály jsou **mým duševním vlastnictvím** a podléhají ochraně dle autorského práva.
+
+📌 **Co to znamená:**
+- 🔒 Neukládejte, nekopírujte ani znovu nevydávejte žádný obsah bez výslovného povolení.
+- 🤝 Pokud máš zájem o spolupráci nebo využití části tohoto projektu, kontaktuj mě.
+- 🙏 Respektuj mojí práci stejně, jako chceš, aby ostatní respektovali tu tvou.
+
+> Všechna práva vyhrazena.  
+> Žádná část tohoto repozitáře nesmí být používána pro komerční účely bez povolení.
+
+>Všechny práva vyhrazeny
 
 
