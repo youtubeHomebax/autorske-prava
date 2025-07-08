@@ -9,6 +9,10 @@ Tento projekt, jeho název, struktura, kód a grafické materiály jsou **mým d
 - 🤝 Pokud máš zájem o spolupráci nebo využití části tohoto projektu, kontaktuj mě.
 - 🙏 Respektuj mojí práci stejně, jako chceš, aby ostatní respektovali tu tvou.
 
+**Kontakt:**
+- Gmail: homebax.cz
+
+
 > Všechna práva vyhrazena.  
 > Žádná část tohoto repozitáře nesmí být používána pro komerční účely bez povolení.
 
