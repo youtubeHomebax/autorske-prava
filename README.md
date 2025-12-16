@@ -33,6 +33,20 @@ Kontakt: homebax.cz@gmail.com
 
 ---
 
+# Reklama
+
+Reklami nejsou povoleny bez povolení autora (Homebax)
+Jestli chcete uzkutečnit nějakou reklamu s naším logem či názvem kontaktujte nás na "homebax.cz@gmail.com" (odpovíme vám co nejrychleji)
+
+---
+
+# mention & tag & username mention
+
+Je povolena zmíňka ja instagramu či jiných sociálních síti (@homebax či jiný)
+Ale pokud budeme vyžadovat Zrušení přízpěvku, je povinné ho smazat či upravit.
+
+---
+
 # Oficiální projekt – Homebax
 
 Tento repozitář slouží jako **oficiální a veřejný důkaz autorství** názvu, loga a souvisejících materiálů projektu **Homebax**.
@@ -133,5 +147,9 @@ Jakékoliv kopírování, úpravy nebo použití bez souhlasu autora jsou zakáz
 
 ![logo](https://homebax.vercel.app/logo/logo.jpg)
 
+# Kontakty
 
+[Gmail](mailto:homebax.cz@gmail.com)
+[Instagram](https://www.instagram.com/homebax.ai/)
+[Twirwe or X](https://x.com/homebax_cz)
 
