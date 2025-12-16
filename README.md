@@ -1,2 +1,1 @@
-# autorske-prava
-Všechny Autorské práva a ochrané známky od Homebax (Studio)
+## Autorské Práva a Ochrané Známky od Homebax (studios)
